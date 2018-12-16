@@ -33,11 +33,6 @@ include "header.php";
 							<p>It is rightly said “Better an Oops than a What If” because it is worth giving a try at something than fearing failure and doing nothing about it. What is your take on it? </p>
 						</blockquote>
 						<p></p>
-						<figure>
-							<img src="./img/BLOGS/blog1-fig3.jpg" alt="">
-						</figure>
-						<h3>Media Marketing</h3>
-						<p>They make online searches before any purchases. </p>
 					</div>
 					<!-- /post content -->
 
@@ -98,7 +93,7 @@ include "header.php";
 										<h3 class="post-title title-sm"><a href="marketing-socialmediamarketing-brandawareness.php">Brand Awareness </a></h3>
 										<ul class="post-meta">
 											<li><a href="author.html">Avni Bhardwaj</a></li>
-											<li>20 April 2018</li>
+											<li></li>
 										</ul>
 									</div>
 								</div>
@@ -127,7 +122,7 @@ include "header.php";
 										<h4>John Doe</h4>
 										<span class="time">5 min ago</span>
 									</div>
-									<p>This the only way to explore or publish your product?.</p>
+									<p>This article was Knowledgeable</p>
 									<a href="#" class="reply">Reply</a>
 									<!-- comment -->
 									<div class="media media-author">
@@ -136,7 +131,7 @@ include "header.php";
 										</div>
 										<div class="media-body">
 											<div class="media-heading">
-												<h4>John Doe</h4>
+												<h4>Jamie Dove</h4>
 												<span class="time">5 min ago</span>
 											</div>
 											<p>This the only way to explore.</p>
